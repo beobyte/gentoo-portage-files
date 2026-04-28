@@ -1,0 +1,3 @@
+sys-kernel/gentoo-kernel::gentoo
+sys-kernel/gentoo-kernel-bin::gentoo
+virtual/dist-kernel::gentoo

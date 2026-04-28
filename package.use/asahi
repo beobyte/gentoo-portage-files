@@ -1,0 +1,4 @@
+media-video/pipewire extra lv2
+dev-lang/rust-bin rust-src rustfmt
+sys-libs/zlib minizip
+sys-kernel/installkernel dracut
